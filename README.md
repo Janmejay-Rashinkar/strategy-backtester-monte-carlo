@@ -66,10 +66,3 @@ Streamlit (UI/UX)
 
 Matplotlib (Visualization)
 
-
-### To update your GitHub with this new file:
-Once you save the `README.md` in VS Code, run these three commands to "sync" it to the internet:
-```bash
-git add README.md
-git commit -m "Add README with strategy documentation"
-git push
